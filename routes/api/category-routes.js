@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const { Category, Product } = require('../../models');
 
-// http://localhost:3001/api/categories
+-
 // gets all categories
 router.get('/', async (req, res) => {
   try {
