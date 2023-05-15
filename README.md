@@ -1,5 +1,4 @@
 # E-Commerce Backend
-https://github.com/sammyyi34/E-Commerce Backend
 # Description
 This e-commerce app is a back-end application designed to provide a functional API for an internet retail company. This app was built using Express.js and Sequelize to interact with a MySQL database. With this app, users can easily add their database name, MySQL username, and password to an environment variable file and connect to a database seamlessly. The app also allows users to create a development database and seed it with test data using the schema and seed commands. Once the server is started, Sequelize models are synced to the MySQL database, making it easy for users to retrieve data from categories, products, and tags using GET routes in Insomnia. With API POST, PUT, and DELETE routes, users can successfully create, update, and delete data in their database, providing them with the tools needed to compete with other e-commerce companies. Overall, this e-commerce app is a powerful tool for internet retail companies looking to provide their customers with a seamless and effective e-commerce experience.
 # Table of Contents
